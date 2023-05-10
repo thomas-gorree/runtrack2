@@ -15,6 +15,13 @@
     $val = 6 ;
     $val2 = 4 ;
     echo $val + $val2 ;
-    
+
+    $myBool = true ;
+    echo $myBool;
+    echo "<br>";
+        
+    $myBool = false ;
+    echo $myBool;
+    echo "<br>";
     
 ?>
